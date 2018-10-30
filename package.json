@@ -1,6 +1,6 @@
 {
   "name": "ct-oauth-plugin-gpsdd",
-  "version": "1.6.2-data4sdgs",
+  "version": "1.6.4-data4sdgs",
   "description": "",
   "main": "index.js",
   "scripts": {
